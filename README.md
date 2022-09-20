@@ -24,6 +24,4 @@
   <br/>
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=keerthan2002&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
-</p><br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
