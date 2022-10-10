@@ -23,5 +23,5 @@
 
   <br/>
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=keerthan2002&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src ="https://github-readme-stats.vercel.app/api?username=keerthan2002&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
 </p>
