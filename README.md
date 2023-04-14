@@ -3,7 +3,7 @@
 ## I'm Keerthan NS
 
 
-🧠 I'm currently pursuing Btech in CSE
+🧠 I'm currently pursuing B.E in CSE
 
 💬 Feel free to ask me about any repositories posted...
 
