@@ -24,5 +24,5 @@
 <!--   <br/> -->
 <!--   <p align = "center"> -->
 <!--   <img src ="https://github-readme-stats.vercel.app/api?username=keerthan2002&show_icons=true&count_private=true&theme=tokyonight&line_height=27"> -->
-  ![Keerthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthan2002&show_icons=true&theme=radical&count_private=true)
+  ![Keerthan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=keerthan2002&show_icons=true&theme=radical&count_private=true)
 <!-- </p> -->
