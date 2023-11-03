@@ -1,6 +1,5 @@
 
-# Hi there 👋, 
-## I'm Keerthan NS
+# Hi there 👋, I'm Keerthan NS
 
 
 🧠 I'm currently pursuing B.E in CSE
@@ -28,4 +27,4 @@
 
 ![](https://komarev.com/ghpvc/?username=keerthan2002&color=brightgreen)
 
-<!-- [![An image of @keerthan2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keerthan2002)](https://holopin.io/@keerthan2002) -->
+[![An image of @keerthan2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keerthan2002)](https://holopin.io/@keerthan2002)
