@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Keerthan NS
 
 
-🧠 I'm currently pursuing B.E in CSE
+🧠 I'm currently working as a Product Engineer at Edgeverve Systems Pvt. Ltd
 
 💬 Feel free to ask me about any repositories posted...
 
